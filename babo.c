@@ -7,5 +7,9 @@ int main(void)
     num = 9;
     printf("%d",num);
     printf("feature branch");
+<<<<<<< HEAD
+=======
+    printf("재도전!! 수정 좀 할게요~~");
+>>>>>>> develop
     return 0;
 }
