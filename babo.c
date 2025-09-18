@@ -15,3 +15,7 @@ int num(void)
     int n;
     printf("이건 어때요");
 }
+int feature(void)
+{
+    printf("그냥 기능 추가");
+}
