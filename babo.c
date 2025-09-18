@@ -16,14 +16,14 @@ int num(void)
     int n;
     printf("이건 어때요");
 }
-<<<<<<< HEAD
+
 
 int feature(void)
 {
     printf("그냥 기능 추가");
-=======
+}
 int feature2(void)
 {
     printf("기능2");
->>>>>>> feature2
+
 }
