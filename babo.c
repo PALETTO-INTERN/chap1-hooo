@@ -7,12 +7,8 @@ int main(void)
     num = 9;
     //삭제
     printf("feature branch");
-<<<<<<< HEAD
-    printf("수정 완료");
-=======
     printf("이걸 합병합시다.");
     printf("여기에 이걸 추가");
->>>>>>> develop
     return 0;
 }
 int num(void)
