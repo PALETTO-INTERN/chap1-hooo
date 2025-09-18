@@ -16,3 +16,7 @@ int num(void)
     int n;
     printf("이건 어때요");
 }
+int result(void)
+{
+    printf("병합");
+}
