@@ -8,5 +8,6 @@ int main(void)
     //삭제
     printf("feature branch");
     printf("이걸 합병합시다.");
+    printf("여기에 이걸 추가");
     return 0;
 }
