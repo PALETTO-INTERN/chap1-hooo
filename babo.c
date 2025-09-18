@@ -5,8 +5,8 @@ int main(void)
 {
     int num;
     num = 9;
-    printf("%d",num);
+    //삭제
     printf("feature branch");
-    printf("재도전!! 수정 좀 할게요~~");
+    printf("이걸 합병합시다.");
     return 0;
 }
