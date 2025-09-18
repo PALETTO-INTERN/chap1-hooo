@@ -16,7 +16,8 @@ int num(void)
     int n;
     printf("이건 어때요");
 }
-int result(void)
+
+int feature(void)
 {
-    printf("병합");
+    printf("그냥 기능 추가");
 }
