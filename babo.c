@@ -11,3 +11,8 @@ int main(void)
     printf("여기에 이걸 추가");
     return 0;
 }
+int num(void)
+{
+    int n;
+    printf("이건 어때요");
+}
