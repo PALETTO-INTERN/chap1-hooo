@@ -10,3 +10,8 @@ int main(void)
     printf("이걸 합병합시다.");
     return 0;
 }
+int num(void)
+{
+    int n;
+    printf("이건 어때요");
+}
