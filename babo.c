@@ -18,4 +18,5 @@ int num(void)
 int feature(void)
 {
     printf("그냥 기능 추가");
+    int feature;
 }
