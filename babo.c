@@ -25,5 +25,5 @@ int feature(void)
 int feature2(void)
 {
     printf("기능2");
-
+    int feature;
 }
